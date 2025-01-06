@@ -20,4 +20,4 @@ This project analyzes trading performance across various stock exchanges, focusi
 - Microsoft Excel for data processing and analysis.  
 
 ## Contact
-For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
+For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mariofilizzola/) or via [email](mailto:filizzolamario@gmail.com).
