@@ -1,6 +1,3 @@
-# Trades_On_Exchanges_Analysis
-Analysis of trading data on exchanges to identify trends and insights.
-
 # Trades on Exchanges Analysis
 
 ## Description
@@ -18,4 +15,4 @@ This project analyzes trading data on exchanges to identify patterns, trends, an
 - Microsoft Excel for data analysis and initial visualization.
 
 ## Contact
-For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](filizzolamario@gmail.com).
+For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
