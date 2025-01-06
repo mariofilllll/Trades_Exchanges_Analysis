@@ -1,18 +1,23 @@
 # Trades on Exchanges Analysis
 
 ## Description
-This project analyzes trading data on exchanges to identify patterns, trends, and opportunities for optimization in trading strategies.
+This project analyzes trading performance across various stock exchanges, focusing on profitability, trading frequency, and regional trends. The analysis identifies key metrics to optimize trading strategies and evaluate the impact of tax regulations on performance.
 
 ## Included Files
-- **Trades_On_Exchanges_Mario_Filizzola.xlsx:** Dataset with trading data and initial analysis.
+- **trades_on_exchanges_Mario_Filizzola.xlsx:** Excel file containing detailed datasets and analysis.
 
 ## Objectives
-- Identify key trading patterns on exchanges.  
-- Highlight opportunities to improve trading strategies.  
-- Provide actionable insights for decision-making.
+- Analyze individual trade performance, including buy/sell prices and profit margins.  
+- Evaluate regional trading trends and quantities exchanged.  
+- Assess the impact of tax obligations on trading outcomes.  
+
+## Features
+- **Trade Insights:** Detailed breakdown of transactions by region, exchange, and profit.  
+- **Profit Analysis:** Duration-based profitability analysis for trades.  
+- **Regional Trends:** Visualization of trading frequency and regional distribution.  
 
 ## Tools
-- Microsoft Excel for data analysis and initial visualization.
+- Microsoft Excel for data processing and analysis.  
 
 ## Contact
 For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
